@@ -4,7 +4,7 @@ I'm Christian alias secondtruth, a hobbyist web developer and tech enthusiast fr
 
 :gear: I'm currently working on [FlameCore](http://github.com/flamecore), a set of PHP libraries for common use cases. Besides that, I'm also working on my [personal website](https://secondtruth.de) and several other small web projects.
 
-:telescope: I'm currently learning C++ and the CMake build system.
+:telescope: I'm currently experimenting with C++ and the CMake build system.
 
 
 ## :toolbox: My Skills
@@ -16,11 +16,11 @@ I love PHP and web technologies in general. I'm also a big fan of Linux, Nginx, 
 
 ## :thumbsup: My other Interests
 
-When I'm not taking care of my projects, I also like to play strategy games, building games, simulations or RPGs.
+When I'm not working on my projects, I also like to play strategy games, building games, simulations or RPGs.
 
-I love music, too. My taste is very mixed, but I prefer Trance, Progressive House, Drum & Bass and Chillout. You can find out more on my Spotify and Last.fm profiles.
+I love music, too. My taste is very mixed, but I prefer Trance, Progressive House, Drum & Bass and Chillout. If you're interested, you can check out my Spotify and Last.fm profiles to learn more about my musical preferences.
 
-I also love watching movies and series on Netflix and videos on YouTube.
+I also enjoy watching movies and series on Netflix and videos on YouTube.
 
 
 ## :trophy: Sponsors
@@ -42,6 +42,10 @@ Support me by becoming a sponsor. Your logo will show up here with a link to you
 ## :gift_heart: Supporting me
 
 If you like my work, you can support me by sending me a one-time or recurring donation. :money_with_wings:
+
+If you would like to support a specific project of mine and have your name or organization recognized in related documents or websites, I suggest donating through OpenCollective.
+
+For general support, feel free to use any of the provided services as you prefer.
 
 - **[Support me on OpenCollective](https://opencollective.com/secondtruth)**
 - **[Support me on Liberapay](https://liberapay.com/secondtruth/donate)**
