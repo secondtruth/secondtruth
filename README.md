@@ -2,16 +2,12 @@
 
 I'm Christian alias secondtruth, a hobbyist web developer and tech enthusiast from Stuttgart (Germany), who loves open source.
 
-:gear: I'm currently working on [FlameCore](http://github.com/flamecore), a set of PHP libraries for common use cases. Besides that, I'm also working on my [personal website](https://secondtruth.de) and several other small web projects.
-
-:telescope: I'm currently experimenting with C++ and the CMake build system.
+I'm currently working on [FlameCore](http://github.com/flamecore), a set of PHP libraries for common use cases. Besides that, I'm also working on my [personal website](https://secondtruth.de) and several other small web projects. In addition, I am experimenting with Go.
 
 
 ## :toolbox: My Skills
 
-![My Skills](https://skillicons.dev/icons?i=php,cpp,html,css,sass,bootstrap,nginx,docker,linux,idea,vscode&theme=light)
-
-I love PHP and web technologies in general. I'm also a big fan of Linux, Nginx, Docker/Podman and other open source software. PhpStorm and Visual Studio Code are my favorite IDEs.
+I love Go and PHP. I'm also a big fan of web technologies in general as well as Linux, Nginx, Caddy, Docker, and other open source software. PhpStorm and Visual Studio Code are my favorite editors.
 
 
 ## :thumbsup: My other Interests
